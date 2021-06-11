@@ -178,7 +178,7 @@ section {
 }
 
 .about__info img {
-  border-radius: 40%;
+  padding: 30px;
 }
 
 .about__info p {
